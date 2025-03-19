@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "produto":"Bolsa CC Micro Chanel",
+        "preco":484.49,
+        "imagem":"https://dcdn-us.mitiendanube.com/stores/786/072/products/bolsa-chanel1-690d36987fa06ea04a16678538733195-480-0.png"
+    },
+    {
+        "id":2,
+        "produtos":"Bolsa Chanel G em couro whisky com metais ouro",
+        "preco":595.60,
+        "imagem":"https://cdn.awsli.com.br/2500x2500/13/13438/produto/178193811/24d4f23c9c.jpg"
+    },
+    {
+        "id":3,
+        "produtos":"Bolsa Chanel Jumbo clássica ",
+        "preco":53000.00,
+        "imagem":"https://cdn1.jolicloset.com/img4/fblink/2022/06/549819-1.jpg"
+    },
+    {
+        "id":4,
+        "produtos":"Bolsa Prada cristal Mini ",
+        "preco":2450.00,
+        "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BOoIfeiao1yyI-EwGBmEVTexmJ5cNodsg&s"
+    },
+
+    {"id":5,
+        "produtos":"Bolsa de ombro Prada Cleo em couro escovado ",
+        "preco":20000.00,
+        "imagem":"https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC499/ZO6F0002/1BC499_ZO6_F0002_V_OOO_SLF.jpg"
+    },
+
+    {"id":6,
+    "produtos":"Bolsa Dolce & Gabbana Devotion Média Preta ",
+    "preco":10315.00,
+    "imagem":"https://acdn-us.mitiendanube.com/stores/330/557/products/whatsapp-image-2021-10-15-at-14-36-261-8d3374a63fd78706ac16345787789799-640-0.jpeg"
+    },
+
+    {"id":7,
+    "produtos":"Bolsa Bvlgari Serpenti Forever Vermelha ",
+    "preco":8890.00,
+    "imagem":"https://dcdn-us.mitiendanube.com/stores/004/923/771/products/photoroom_001_20241103_002216-698cd164c6e1a3afb917306043969366-480-0.webp"
+    },
+
+    {"id":8,
+    "produtos":"bolsa icare em ráfia ",
+    "preco":34330.00,
+    "imagem":"https://saint-laurent.dam.kering.com/m/34c8789c97558635/Small-772191GAAEK2063_A.jpg?v=4"
+    },
+
+    {"id":9,
+    "produtos":" Bolsa de mão com estampa Dolce Box 90s",
+    "preco":66750.00,
+    "imagem":"https://cdn-images.farfetch-contents.com/18/47/96/70/18479670_39853408_1000.jpg"
+    },
+
+    {"id":10,
+    "produtos":"bolsa le 5 à 7 em couro envernizado ",
+    "preco":16200.00,
+    "imagem":"https://saint-laurent.dam.kering.com/m/6ee4f5c5729f8913/Small-657228B870W6413_A.jpg?v=1"
+    },
+
+    {"id":11,
+    "produtos":"Valentino Garavani Bolsa tiracolo Locò com aplicação de strass 1992 ",
+    "preco":31900.00,
+    "imagem":"https://cdn-images.farfetch-contents.com/20/87/53/10/20875310_56124569_1000.jpg"
+    },
+
+    {"id":12,
+    "produtos":"Bolsa GG Diana Verde",
+    "preco":1935.00,
+    "imagem":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFcxJkNkvq2AcxJWYwfPzgPxjy64dE5agZqGq4nowzh2PGRnyBSGz1BwM3ANYU8QfROpskEjfFUBAbu4HPFHmb_c_PWzO_Pg8FYLJWhXe7DQ9XIfRnndSSew&usqp=CAE"
+    }
+]
