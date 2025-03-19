@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,24 +8,32 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="./assets/bone.jpg" type="image/x-icon">
 </head>
+
 <body>
     <header>
         <h1>Loja do Litão</h1>
+        <button onclick="cadastro.classList.remove('oculto')">Novo produto</button>
     </header>
     <main>
-        <div class="card">
-            <h3>Titulo card</h3>
-            <img src="./assets/bone.jpg" alt="Boné">
-            <p>Preco</p>
-            <button>Detalhes</button>
-        </div>
-
     </main>
-   
     <footer>
-        <h2>By Kathleen</h2>
+        <h2>By wellifabio</h2>
     </footer>
-    
+    <div id="cadastro" class="modal oculto">
+        <div class="janela">
+            <div>
+                <h3>Cadastro</h3>
+                <button onclick="window.location.reload()">X</button>
+            </div>
+            <form>
+                <input type="text" name="produto" placeholder="Nome do produto" required>
+                <input type="text" name="descricao" placeholder="Descrição" required>
+                <input type="number" step="0.01" name="preco" placeholder="Preço" required>
+                <input type="text" name="imagem" placeholder="Cole o endereço da imagem" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </div>
 </body>
-<script src='script.js'></script>
+<script src="script.js"></script>
 </html>
